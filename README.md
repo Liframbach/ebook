@@ -1,10 +1,10 @@
 # ebook_PROJETO_DIO
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. 
 
-Tecnologias utilizadas no projeto
-ChatGPT
-Freepik
-PowerPoint
+Tecnologias utilizadas no projeto:
+*ChatGPT
+*Freepik
+*PowerPoint
 
 Prompt CHAT GPT:
 
